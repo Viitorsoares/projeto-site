@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: larger;
+}
+
+body {
+ background-color: aquamarine;
+}
+
+
+main {
+    width: 400px;
+    padding: 20px;
+    margin: auto;
+}
